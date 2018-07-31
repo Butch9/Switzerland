@@ -16,12 +16,7 @@
 // @api = 1.0
 // @pubdate = 2018-04-30
 // @publisher = Banana.ch SA
-// @description = Style 1: Invoice with gross amounts, 2 colours
-// @description.it = Stile 1: Fattura con importi lordi, 2 colori
-// @description.de = Stil 1: Rechnung mit Bruttobeträgen, 2 Farben
-// @description.fr = Style 1: Facture avec montants bruts, 2 couleurs
-// @description.nl = Stijl 1: Factuur met brutobedragen, 2 kleuren
-// @description.en = Style 1: Invoice with gross amounts, 2 colours
+// @description = MlikeMusic, Michele Pagliarulo, www.mlikemusic.ch, Invoice
 // @doctype = *
 // @task = report.customer.invoice
 
